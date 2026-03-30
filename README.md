@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @V-Nezlo
-- 👀 I’m interested in radio amateurs
-- 🌱 I’m currently learning embedded linux
-- 💞️ I’m looking to collaborate on ARM exploring
-- 📫 How to reach me vlladimirka@gmail.com
+Гидропонный энтузиаст
+EBB&FLOW системы потребительского и полу-промышленного назначения
+Полный цикл разработки - ПО, PCB, конструктив
+Малый урожай 🍅🍅🍅? Не растет 🍓🍓🍓? Выбирайте EBB
+Открыт для профессионального взаимодействия в сфере гидропонных технологий
 
 <!---
 V-Nezlo/V-Nezlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
